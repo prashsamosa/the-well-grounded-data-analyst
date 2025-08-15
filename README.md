@@ -41,7 +41,6 @@ end-to-end-data-analysis-portfolio/
 - **Scikit-learn**: Machine learning and clustering algorithms
 - **Matplotlib & Plotly**: Advanced data visualization
 - **pdfplumber**: PDF data extraction and processing
-- **Apache Airflow**: Workflow orchestration and automation
 - **SQLAlchemy**: Database operations and ORM
 - **GeoPandas**: Geographic data analysis
 - **SciPy & NumPy**: Statistical computing and numerical analysis
